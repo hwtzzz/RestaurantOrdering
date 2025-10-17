@@ -1,4 +1,4 @@
-# SpringBoot+Vue餐厅点餐系统
+# SpringBoot+Vue餐厅点餐系统（带后台）
 
 #### 介绍
 整合SpringBoot+Vue
